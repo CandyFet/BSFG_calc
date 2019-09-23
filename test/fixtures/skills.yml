@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  class: one
+  phys_power: 
+  mag_power: 
+  level: 
+
+two:
+  name: MyString
+  class: two
+  phys_power: 
+  mag_power: 
+  level: 

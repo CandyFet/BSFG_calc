@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  patack: 
+  matack: 
+  pdef: 
+  mdef: 
+  atackspeed: 
+  castspeed: 
+  speed: 
+  evasion: 
+  phys_chance_to_crit: 
+  mag_chance_to_crit: 
+  phys_crit_power: 
+  mag_crit_power: 
+  accuracy: 
+  block_chance: 
+
+two:
+  name: MyString
+  patack: 
+  matack: 
+  pdef: 
+  mdef: 
+  atackspeed: 
+  castspeed: 
+  speed: 
+  evasion: 
+  phys_chance_to_crit: 
+  mag_chance_to_crit: 
+  phys_crit_power: 
+  mag_crit_power: 
+  accuracy: 
+  block_chance: 
