@@ -1,24 +1,16 @@
-# README
+# BSFG Calculator
+Этот калькулятор поможет рассчитать вам идеальный билд для игры www.bsfg.ru
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Позволит рассчитать:
 
-Things you may want to cover:
+* Статы с определенными скиллами прокачки
 
-* Ruby version
+* Бонусы экипировки
 
-* System dependencies
+* Бонусы от заточки оружия
 
-* Configuration
+* Бонусы талантов
 
-* Database creation
+* Бонусы наград за военную службу
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Идет работа над проектом
